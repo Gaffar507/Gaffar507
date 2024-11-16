@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
@@ -22,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
@@ -81,18 +79,20 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="www.linkedin.com/in/developer-gaffar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=blue&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="abdulgaffarefti66@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/efti.hossain.507" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="80" height="30" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a>
   <a href="01988989204" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="80" height="30" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=&logoColor=white&labelColor=&style=flat" height="30" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -101,9 +101,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/gaffar507/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/gaffar507/gaffar507/output/snake.svg" alt="Snake animation" />
 
 ###

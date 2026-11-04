@@ -1,4 +1,4 @@
-<h1 align="left">Abdul Gaffar<br>Front-end Web developer</h1>
+<h1 align="left">Abdul Gaffar<br>Web Lead Automation & Front-end Developer</h1>
 
 ###
 
